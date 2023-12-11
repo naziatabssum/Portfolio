@@ -1,0 +1,82 @@
+.home-page {
+    background-color: #ff0066;
+    padding: 10px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.home-page-head {
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.home-page-para {
+    font-family: Roboto;
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+.image {
+    height: 200px;
+    width: 350px;
+    margin: 10px;
+}
+
+.head {
+    font-family: Roboto;
+    font-size: 30px;
+    text-align: center;
+    color: grey;
+    font-weight: bold;
+}
+
+.para {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 20px;
+    color: #ff0066;
+    font-weight: bold;
+}
+
+.bg-container {
+    background-color: #e3e3e3;
+    padding: 20px;
+    text-align: center;
+}
+
+.heading {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.param {
+    font-family: Roboto;
+    font-size: 16px;
+}
+
+.projects-container {
+    text-align: center;
+    margin: 10px;
+}
+
+.image1 {
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+}
+
+.container {
+    background-color: #ff0066;
+    text-align: center;
+    padding: 10px;
+}
+
+.header {
+    font-family: Roboto;
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: bold;
+}
